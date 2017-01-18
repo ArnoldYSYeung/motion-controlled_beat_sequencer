@@ -2,6 +2,7 @@
 A digital beat sequencer which takes in commands from the movement of a 3-axis accelerometer
 
 Developed and designed by Arnold Yeung
+
 All code written by Arnold Yeung
 
 For more information, please visit www.arnoldyeung.com
