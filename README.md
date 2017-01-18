@@ -5,7 +5,8 @@ Developed and designed by Arnold Yeung
 
 All code written by Arnold Yeung
 
-To view code written by me (and not compilation code from MS Visual Studio), go to motion-controlled_beat_sequencer/WindowsFormsApplication1/Form1.cs
+To view code written by me (and not compilation code from MS Visual Studio), 
+go to motion-controlled_beat_sequencer/WindowsFormsApplication1/Form1.cs
 
 
 For more information, please visit www.arnoldyeung.com
